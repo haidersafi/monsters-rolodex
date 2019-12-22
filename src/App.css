@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.App>h1
+{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #61dafb;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
